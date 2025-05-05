@@ -1,0 +1,184 @@
+city,restaurant_name,rating,num_reviews
+Islamabad,Ranchers - F 11,4.7,5000+
+Islamabad,Howdy - Centaurus Mall,4.9,100+
+Islamabad,BRIM Burgers - F7,4.8,500+
+Islamabad,SMASH'D it - Centaurus,4.3,100+
+Islamabad,McDonald's - Centaurus Mall,4.8,5000+
+Islamabad,MR. COD - Blue Area,4.6,500+
+Islamabad,Hardee's - Centaurus,4.6,3000+
+Islamabad,OPTP - Jinnah Super,4.8,10000+
+Islamabad,Simply Sufi - F7,4.8,1000+
+Islamabad,Fresco Pizza f-10,4.8,2000+
+Islamabad,Tayto G-9,4.8,500+
+Islamabad,Pelicana Chicken - Centauras Mall,4.9,100+
+Islamabad,Boom Boom Hot n Spicy - F8,4.8,5000+
+Islamabad,Wild Wings- Centaurus,4.3,1000+
+Islamabad,Bismillah Fast Food,4.2,500+
+Islamabad,2 Broke Engineers,4.8,100+
+Islamabad,Loafology - Blue Area,4.9,100+
+Islamabad,Savour Foods - Blue Area,4.9,45000+
+Islamabad,Contra Coffee,4.9,100+
+Islamabad,Pepe's Piri Piri - Centaurus Mall,4.8,500+
+Islamabad,Quatro Uno,5.0,100+
+Islamabad,Hot N Spicy - Tariq Market,4.7,3000+
+Islamabad,Kitchen Cuisine-F-10 Markaz,4.8,100+
+Islamabad,Second Cup Coffee Company - F6,4.8,1000+
+Islamabad,Bravo Foods - Blue Area,4.9,5000+
+Islamabad,Naan Ghar Special,4.9,29
+Islamabad,The Coffee Bean & Tea Leaf Elysium Tower,4.9,100+
+Islamabad,New Yorker Pizza - F8 Islamabad,4.3,3000+
+Islamabad,Pappasallis,4.6,1000+
+Islamabad,Crunchies - F10 Markaz,4.6,4000+
+Islamabad,Burning Brownie - Beverly Center,4.9,1000+
+Islamabad,Karanchee Biryani & Broast - Centaurus mall,3.6,500+
+Islamabad,Waqas A1 Biryani,4.6,100+
+Islamabad,Bismillah Tikka & Chargha House F-8,4.5,100+
+Islamabad,Eggspectation Cafe & Restaurant,4.9,500+
+Islamabad,Chaaye Khana,4.8,100+
+Islamabad,Bite Buzz,4.8,100+
+Islamabad,Rendezvous Xpress Centaurus,4.8,500+
+Islamabad,Street 1 Cafe,4.8,100+
+Islamabad,Holyland bakers,4.7,26
+Islamabad,TABLE TALK,4.7,100+
+Islamabad,Home Kitchen,5.0,9
+Islamabad,Home Taste,5.0,100+
+Islamabad,Totally Healthy,4.8,500+
+Islamabad,Baskin Robbins - Centaurus Mall,4.8,500+
+Islamabad,Annie Kitchen,4.9,1000+
+Islamabad,Desi Eatry,4.9,100+
+Islamabad,SHN FOOD’S,4.1,64
+Islamabad,Lebanese Night,4.7,500+
+Islamabad,Tawakkal Foods,4.6,100+
+Karachi,Al Syed Biryani And Pakwan Center - Garden East,4.8,5000+
+Karachi,Tasty Trails,4.8,500+
+Karachi,Al Rehman Biryani - Kharadar,4.8,5000+
+Karachi,Quetta Al Haram Chai,4.7,100+
+Karachi,Student Biryani - Saddar,4.7,10000+
+Karachi,Al Harmain Abbasi Biryani - Habib School,3.7,500+
+Karachi,Karachi Haleem - Burns Road,4.8,10000+
+Karachi,Mamu Biryani & Pulao Center,4.6,91
+Karachi,Mehboob Food Center (MFC Soldier Bazar),4.9,5000+
+Karachi,Al Rehman Biryani & Pulao,4.6,2000+
+Karachi,Al Zahra Pakwan,4.8,100+
+Karachi,Al Harmain Abbasi Biryani,3.3,100+
+Karachi,Jan's Biryani,4.9,2000+
+Karachi,Memonjee Night Biryani,4.8,100+
+Karachi,Quetta Tawakkal Hotel - Saddar,4.8,89
+Karachi,Al-Rehman biryani & Pakwan,4.4,100+
+Karachi,Suadish Biryani - Saddar,4.6,100+
+Karachi,Yaadgar Halwa Puri - Branch 2,4.8,100+
+Karachi,Hot N Spicy - Tower,4.9,2000+
+Karachi,MFC Beef pulao,4.8,500+
+Karachi,بسم اللہ Badami Beef Yakhni Pulao,4.1,100+
+Karachi,Riaz Bros & Kachori House,4.7,4000+
+Karachi,M Saleem Foods,4.7,5000+
+Karachi,Zahid Nihari Restaurant - Saddar,4.9,5000+
+Karachi,Zareen Fatima Kitchen,4.6,100+
+Karachi,Kakar Hotel,4.7,5000+
+Karachi,Memon Food Centre,4.0,1000+
+Karachi,Kheer House,5.0,100+
+Karachi,Nibbles,,
+Karachi,Madina Sheermal House,4.9,3000+
+Karachi,Happy Tummy,4.5,500+
+Karachi,Fatma Ki Handi,,
+Karachi,AJ'S Café,4.4,1000+
+Karachi,Silawat Zaiqa Point,,
+Karachi,Shahi Paratha Tarka,4.3,1000+
+Karachi,Haji Mehfooz Sheermal House,5.0,1000+
+Karachi,Taste of China,3.4,100+
+Karachi,United King - Garden,4.8,5000+
+Karachi,Bismillah Halwa Puri & Fast Food - Saddar,4.8,4000+
+Karachi,Sarah Cuisine,4.6,1000+
+Karachi,Hottest BBQ,4.7,3000+
+Karachi,M Siddique Halwai,4.8,2000+
+Karachi,Al Naseem Eats,4.6,17
+Karachi,Quetta Jumma Khan Hotel,4.6,100+
+Karachi,CAFE KARAM KHAN (CKK FOODS),4.6,9
+Karachi,Cafe Taj Shah Jee Hotel,3.3,53
+Karachi,Karachi Halwa puri - Saddar,4.8,1000+
+Karachi,Karachi Milk Shake,4.1,100+
+Karachi,Fresco Sweet,4.9,500+
+Karachi,Abdul Ghani Madina Hotel,4.8,100+
+Lahore,3H Food Corner,4.6,100+
+Lahore,Somi's Kitchen,4.5,2000+
+Lahore,Goga Naqibia Murgh Channay - Firdous Market,4.8,5000+
+Lahore,Grill Tikka & BBQ - Gulberg,4.5,100+
+Lahore,Gul Bhai Mutton Channay & Bong Paye.,4.8,500+
+Lahore,Golden Restaurant,4.8,5000+
+Lahore,Shahi Murg Chanay,4.6,5000+
+Lahore,Mian Nasir Murgh Chanay,4.9,100+
+Lahore,Sultan Daddy Grill Burger,4.3,500+
+Lahore,Saif Murgh Channay,4.9,3000+
+Lahore,Goga Naqeebia Murgh Chanay & Bong Paye - Barkat Market,4.7,2000+
+Lahore,Ghous Pak Restaurant,4.7,1000+
+Lahore,Haji Sahab Special Murgh Chany & Bong Paye,4.4,100+
+Lahore,Capri Restaurant,4.6,5000+
+Lahore,Sultan Hotel,4.5,3000+
+Lahore,Cafe Tandoori,4.9,2000+
+Lahore,Bhully shah restaurant,4.7,500+
+Lahore,Ameen Murgh Channay and Bhola Juice Corner,4.3,500+
+Lahore,Ice Food,4.8,3000+
+Lahore,Karachi Halwa puri - Gulberg,4.7,500+
+Lahore,Bundu Khan Desi Nashta - Liberty,4.9,2000+
+Lahore,Quetta Paratha - 110 A,3.6,100+
+Lahore,Muhammadi Nehari House - Muslim Town,4.8,1000+
+Lahore,Iceland fresh juice & Dry fruits Cavalry ground,4.8,100+
+Lahore,HN Foods - MM Alam Gulberg,4.5,100+
+Lahore,Anmool Nan shop,4.6,2000+
+Lahore,Malik Naan Shop,4.9,500+
+Lahore,Rizwan Burger - Main Market,4.9,15000+
+Lahore,Madni Restaurant,4.6,1000+
+Lahore,Karachi Red Rock - Gulberg,4.8,20000+
+Lahore,Muhammadi Nahari House - DHA,4.7,2000+
+Lahore,Bismillah Homechef,2.8,100+
+Lahore,AHMAD HOME CHEF,3.0,500+
+Lahore,Pulao House & Restaurant,4.8,500+
+Lahore,Gulzar Yakhni Pulao,2.4,1000+
+Lahore,Bismillah Beaf Yakhni Pulao,2.0,53
+Lahore,Haleema's Kitchen,,
+Lahore,i Kitchen,4.4,2000+
+Lahore,Karachi Golden BBQ & Paratha Roll,4.6,2000+
+Lahore,Ahmad Dahi Bhallay - Cavalry Ground,4.9,2000+
+Lahore,Quetta Paratha - 110,2.3,56
+Lahore,Seasoned,4.7,6
+Lahore,Hafi's Kitchen,4.2,2000+
+Lahore,Madni Restaurant,4.3,51
+Lahore,Fancy Dahi Bhallay,4.4,500+
+Lahore,ICE LAND Fresh Juices & Dry Fruit - Gulberg Hussain Chowk,4.8,4000+
+Lahore,What a Paratha - Gulberg,4.9,15000+
+Lahore,Lahori Barbeque Rooftop,4.4,100+
+Lahore,Ice Land - Ghalib Market,4.8,100+
+Lahore,Rizwan Biryani,4.8,5000+
+Peshawar,"Gul Chapli Kabab, Bara Road",5.0,100+
+Peshawar,Pak Khorak,4.6,100+
+Peshawar,Umar Kabab House,4.8,100+
+Peshawar,Pak Khorak Platter House,4.1,12
+Peshawar,Peshawar Kabab House,4.5,5
+Peshawar,Haleem Ghar - Saddar,4.8,5000+
+Peshawar,"Mohmand Toray Kabab House, Branch 8",4.7,94
+Peshawar,Shahbaz Canteen & Restaurant,4.3,2000+
+Peshawar,"Al Naseeb Biryani Center, Qissa Khuwani",4.8,100+
+Peshawar,Bannu Gul Beef Pulao Painda House,4.7,57
+Peshawar,MJ's Kitchenette,4.9,100+
+Peshawar,Quetta Chaye,4.8,100+
+Peshawar,Pak Ghazi Biryani Centre ( Saddar),4.7,100+
+Peshawar,Peshawar Tea House (Tehkal),4.7,100+
+Peshawar,Pak Ghazi Biryani Sadar,4.2,2000+
+Peshawar,Quetta Peshawari Cafe ( Arbab Road ),,
+Peshawar,Karachi Biryani Center Tehkal Payan,4.6,2000+
+Peshawar,Get Together Restaurant,1.5,12
+Peshawar,Quetta Peshawar Cafe Branch 2,4.6,2000+
+Peshawar,Cafe Quetta 24/7,,
+Peshawar,Taste In Train,2.1,40
+Peshawar,Pak Ghazi Biryani Saddar Waly ( Hassan Garhi ),4.8,15
+Peshawar,MaZaiDar Chicken Biryani and Fast Food,4.2,95
+Quetta,Hot N Chilli - Liaquat Bazar,4.6,4000+
+Quetta,Hot N Spicy - Samungli Road,4.5,5000+
+Quetta,Quality Sweets - Shara-e-Iqbal,4.9,2000+
+Quetta,SAMSOUR,4.7,1000+
+Quetta,Bismillah Hotel,4.6,500+
+Quetta,Imperial Bakery & Sweets,4.9,500+
+Quetta,The Spicy One,3.4,16
+Quetta,Hot N Chillis,4.4,6
+Quetta,The Pizzanos Burger,2.4,100+
+Quetta,King Burger & Chinese,2.1,100+
